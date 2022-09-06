@@ -1,0 +1,9 @@
+/* Write a program to print sum of all the even no in between 1 to 20 */
+/*  Write a program to print sum of all the odd no in between 20 to 30  */
+/* find fibonaci series first 10 numbers */
+/* find lucas  series first 8 numbers */
+/* Write a Program to print product of all the odd no between 51-60 */
+/*Write a Program whether the number is prime or not*/
+/*Write a Program find the primenumber range  between 1 to 100*/
+/* when a sum of all the factors of a numbers excluding the number is equal to the number */
+/* write a program to find all the perfect numbers in range 1 to 1000 */
